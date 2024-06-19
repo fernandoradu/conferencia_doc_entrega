@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43520" Position="-1" String="Separação da Expedição" Type="2" UniqueID="mnu_separa" Image="%path%\Imagens\delivery01.bmp">
+				<Menus>
+					<action type="add">						
+						<Menu Checked="0" Enabled="1" FatherUID="mnu_separa" Position="-1" String="Conferência de Entrega" Type="1" UniqueID="mnu_Entrega">							
+						</Menu>
+					</action>
+				</Menus>
+			</Menu>
+		</action>
+	</Menus>
+</Application>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="DVA" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Exercicio Final - Radu" ExtVersion="1.0.4" Contdata="" Partner="SAP B1 Dev Academy" DBType="HANA" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="C:\Users\devacademy_17\source\repos\ExercicioFinalRadu\ExercicioFinalRadu\bin\Debug\ExercicioFinalRadu.exe" AddonSig="" AddonSigSha256="">
+        <Installation>
+          <Files>
+            <File FileName="ExercicioFinalRadu.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="ExercicioFinalRadu.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="C:\Users\devacademy_17\source\repos\ExercicioFinalRadu\ExercicioFinalRadu\bin\Debug\ExercicioFinalRadu.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="ExercicioFinalRadu.b1s">
+              <Actions />
+            </File>
+            <File FileName="ExercicioFinalRadu.exe">
+              <Actions />
+            </File>
+            <File FileName="ExercicioFinalRadu.pdb">
+              <Actions />
+            </File>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="Imagens\delivery01.bmp">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="ExercicioFinalRadu.b1s">
+              <Actions />
+            </File>
+            <File FileName="ExercicioFinalRadu.exe">
+              <Actions />
+            </File>
+            <File FileName="ExercicioFinalRadu.pdb">
+              <Actions />
+            </File>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="Imagens\delivery01.bmp">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>

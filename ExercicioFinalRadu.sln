@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFinalRadu", "ExercicioFinalRadu\ExercicioFinalRadu.csproj", "{A5CEA622-716D-4165-8DD5-18E28C25352C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CEA622-716D-4165-8DD5-18E28C25352C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CEA622-716D-4165-8DD5-18E28C25352C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CEA622-716D-4165-8DD5-18E28C25352C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CEA622-716D-4165-8DD5-18E28C25352C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CABA35E-C40E-4848-95D0-38574EBF53C4}
+	EndGlobalSection
+EndGlobal
